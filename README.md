@@ -7,8 +7,8 @@ A Quasar Project
 ### Login Screen
 ![Login screen](./src/assets/login-background.jpg)
 
-### Alternate Login Screen
-![Alternate login screen](./src/assets/login-background.jpeg)
+### Application Icon
+![Application icon](./public/icons/favicon-128x128.png)
 
 ## Install the dependencies
 ```bash
