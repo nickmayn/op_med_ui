@@ -2,6 +2,14 @@
 
 A Quasar Project
 
+## Screenshots
+
+### Login Screen
+![Login screen](./src/assets/login-background.jpg)
+
+### Application Icon
+![Application icon](./public/icons/favicon-128x128.png)
+
 ## Install the dependencies
 ```bash
 yarn
