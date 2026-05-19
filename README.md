@@ -2,6 +2,14 @@
 
 A Quasar Project
 
+## Screenshots
+
+### Login Screen
+![Login screen](./src/assets/login-background.jpg)
+
+### Alternate Login Screen
+![Alternate login screen](./src/assets/login-background.jpeg)
+
 ## Install the dependencies
 ```bash
 yarn
